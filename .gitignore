@@ -1,0 +1,4 @@
+# Large files
+data/train.csv
+src/model.pkl
+src/scaler.pkl
